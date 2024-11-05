@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS meetly_db;
+CREATE DATABASE meetly_db;
